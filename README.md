@@ -2,3 +2,5 @@
 green
 yellow
 new
+blue
+pink
